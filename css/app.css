@@ -223,7 +223,7 @@ video { display: block; }
     z-index: 10;
     /* -webkit-transform: translateX(-50%) translateY(-50%); */
     /* transform: translateX(-50%) translateY(-50%); */
-    background: url(http://savehome.neovu.io/img/poster-video-savenergy.svg) no-repeat;
+    background: url(../img/poster-video-savenergy.svg) no-repeat;
     background-size: cover;
     padding: 0 0;
 }
