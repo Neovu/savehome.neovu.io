@@ -1,11 +1,11 @@
 function loadBundles(lang) {
     $.i18n.properties({
         name: 'Messages',
-        path: 'http://savehome.neovu.io/bundle/',
+        path: 'bundle/',
         mode: 'both',
         language: lang,
         callback: function () {
-            $.get("http://savehome.neovu.io/bundle/Messages.properties", function (data) {
+            $.get("bundle/Messages.properties", function (data) {
                 var items = data.split('\n');
                 $(items).each(function (index, element) {
                     var ele = element.split('=');
