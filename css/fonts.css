@@ -1,11 +1,11 @@
 /***** Font Definition for Open Sans. This stylesheet comes from qrohlf.com/posts/better-opensans *****/
 @font-face {
     font-family: 'OpenSans-CondensedLight';
-    src: url('../fonts/OpenSans-CondLight-webfont.eot');
-    src: url('../fonts/OpenSans-CondLight-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/OpenSans-CondLight-webfont.woff') format('woff'),
-         url('../fonts/OpenSans-CondLight-webfont.ttf') format('truetype'),
-         url('../fonts/OpenSans-CondLight-webfont.svg#open_sanscondensed_light') format('svg');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-CondLight-webfont.eot');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-CondLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-CondLight-webfont.woff') format('woff'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-CondLight-webfont.ttf') format('truetype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-CondLight-webfont.svg#open_sanscondensed_light') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -15,11 +15,11 @@
 @font-face {
     font-family: 'OpenSans';
     
-    src: url('../fonts/OpenSans-Regular-webfont.eot');
-    src: url('../fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/OpenSans-Regular-webfont.woff') format('woff'),
-         url('../fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
-         url('../fonts/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-Regular-webfont.eot');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Regular-webfont.woff') format('woff'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
     font-weight: normal;
     font-weight: 400;
     font-style: normal;
@@ -29,11 +29,11 @@
 /* Italic */
 @font-face {
     font-family: 'Open Sans';
-    src: url('../fonts/OpenSans-Italic-webfont.eot');
-    src: url('../fonts/OpenSans-Italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/OpenSans-Italic-webfont.woff') format('woff'),
-         url('../fonts/OpenSans-Italic-webfont.ttf') format('truetype'),
-         url('../fonts/OpenSans-Italic-webfont.svg#OpenSansItalic') format('svg');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-Italic-webfont.eot');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Italic-webfont.woff') format('woff'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Italic-webfont.ttf') format('truetype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Italic-webfont.svg#OpenSansItalic') format('svg');
     font-weight: normal;
     font-weight: 400;
     font-style: italic;
@@ -43,11 +43,11 @@
 /* Light */
 @font-face {
     font-family: 'OpenSans-Light';
-    src: url('../fonts/OpenSans-Light-webfont.eot');
-    src: url('../fonts/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/OpenSans-Light-webfont.woff') format('woff'),
-         url('../fonts/OpenSans-Light-webfont.ttf') format('truetype'),
-         url('../fonts/OpenSans-Light-webfont.svg#OpenSansLight') format('svg');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-Light-webfont.eot');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Light-webfont.woff') format('woff'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Light-webfont.ttf') format('truetype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Light-webfont.svg#OpenSansLight') format('svg');
     font-weight: 200;
     font-style: normal;
 
@@ -56,11 +56,11 @@
 /* Light Italic */
 @font-face {
     font-family: 'Open Sans';
-    src: url('../fonts/OpenSans-LightItalic-webfont.eot');
-    src: url('../fonts/OpenSans-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/OpenSans-LightItalic-webfont.woff') format('woff'),
-         url('../fonts/OpenSans-LightItalic-webfont.ttf') format('truetype'),
-         url('../fonts/OpenSans-LightItalic-webfont.svg#OpenSansLightItalic') format('svg');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-LightItalic-webfont.eot');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-LightItalic-webfont.woff') format('woff'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-LightItalic-webfont.ttf') format('truetype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-LightItalic-webfont.svg#OpenSansLightItalic') format('svg');
     font-weight: 200;
     font-style: italic;
 
@@ -69,11 +69,11 @@
 /* Semibold */
 @font-face {
     font-family: 'OpenSans-Semibold';
-    src: url('../fonts/OpenSans-Semibold-webfont.eot');
-    src: url('../fonts/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/OpenSans-Semibold-webfont.woff') format('woff'),
-         url('../fonts/OpenSans-Semibold-webfont.ttf') format('truetype'),
-         url('../fonts/OpenSans-Semibold-webfont.svg#OpenSansSemibold') format('svg');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-Semibold-webfont.eot');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Semibold-webfont.woff') format('woff'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Semibold-webfont.ttf') format('truetype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Semibold-webfont.svg#OpenSansSemibold') format('svg');
     font-weight: 500;
     font-style: normal;
 
@@ -82,11 +82,11 @@
 /* Semibold Italic */
 @font-face {
     font-family: 'Open Sans';
-    src: url('../fonts/OpenSans-SemiboldItalic-webfont.eot');
-    src: url('../fonts/OpenSans-SemiboldItalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/OpenSans-SemiboldItalic-webfont.woff') format('woff'),
-         url('../fonts/OpenSans-SemiboldItalic-webfont.ttf') format('truetype'),
-         url('../fonts/OpenSans-SemiboldItalic-webfont.svg#OpenSansSemiboldItalic') format('svg');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-SemiboldItalic-webfont.eot');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-SemiboldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-SemiboldItalic-webfont.woff') format('woff'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-SemiboldItalic-webfont.ttf') format('truetype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-SemiboldItalic-webfont.svg#OpenSansSemiboldItalic') format('svg');
     font-weight: 500;
     font-style: italic;
 
@@ -95,11 +95,11 @@
 /* Bold */
 @font-face {
     font-family: 'OpenSans-Bold';
-    src: url('../fonts/OpenSans-Bold-webfont.eot');
-    src: url('../fonts/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/OpenSans-Bold-webfont.woff') format('woff'),
-         url('../fonts/OpenSans-Bold-webfont.ttf') format('truetype'),
-         url('../fonts/OpenSans-Bold-webfont.svg#OpenSansBold') format('svg');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-Bold-webfont.eot');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Bold-webfont.woff') format('woff'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Bold-webfont.ttf') format('truetype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-Bold-webfont.svg#OpenSansBold') format('svg');
     font-weight: bold;
     font-weight: 700;
     font-style: normal;
@@ -109,11 +109,11 @@
 /* Bold Italic */
 @font-face {
     font-family: 'Open Sans';
-    src: url('../fonts/OpenSans-BoldItalic-webfont.eot');
-    src: url('../fonts/OpenSans-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/OpenSans-BoldItalic-webfont.woff') format('woff'),
-         url('../fonts/OpenSans-BoldItalic-webfont.ttf') format('truetype'),
-         url('../fonts/OpenSans-BoldItalic-webfont.svg#OpenSansBoldItalic') format('svg');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-BoldItalic-webfont.eot');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-BoldItalic-webfont.woff') format('woff'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-BoldItalic-webfont.ttf') format('truetype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-BoldItalic-webfont.svg#OpenSansBoldItalic') format('svg');
     font-weight: bold;
     font-weight: 700;
     font-style: italic;
@@ -123,11 +123,11 @@
 /* Extra Bold */
 @font-face {
     font-family: 'Open Sans';
-    src: url('../fonts/OpenSans-ExtraBold-webfont.eot');
-    src: url('../fonts/OpenSans-ExtraBold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/OpenSans-ExtraBold-webfont.woff') format('woff'),
-         url('../fonts/OpenSans-ExtraBold-webfont.ttf') format('truetype'),
-         url('../fonts/OpenSans-ExtraBold-webfont.svg#OpenSansExtrabold') format('svg');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-ExtraBold-webfont.eot');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-ExtraBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-ExtraBold-webfont.woff') format('woff'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-ExtraBold-webfont.ttf') format('truetype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-ExtraBold-webfont.svg#OpenSansExtrabold') format('svg');
     font-weight: 900;
     font-style: normal;
 
@@ -136,11 +136,11 @@
 /* Extra Bold Italic */
 @font-face {
     font-family: 'Open Sans';
-    src: url('../fonts/OpenSans-ExtraBoldItalic-webfont.eot');
-    src: url('../fonts/OpenSans-ExtraBoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/OpenSans-ExtraBoldItalic-webfont.woff') format('woff'),
-         url('../fonts/OpenSans-ExtraBoldItalic-webfont.ttf') format('truetype'),
-         url('../fonts/OpenSans-ExtraBoldItalic-webfont.svg#OpenSansExtraboldItalic') format('svg');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-ExtraBoldItalic-webfont.eot');
+    src: url('http://www.savehome.neovu.io/fonts/OpenSans-ExtraBoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-ExtraBoldItalic-webfont.woff') format('woff'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-ExtraBoldItalic-webfont.ttf') format('truetype'),
+         url('http://www.savehome.neovu.io/fonts/OpenSans-ExtraBoldItalic-webfont.svg#OpenSansExtraboldItalic') format('svg');
     font-weight: 900;
     font-style: italic;
 
@@ -150,10 +150,10 @@
 
 @font-face {
     font-family: 'HelveticaNeueLTStd';
-    src:  url('../fonts/HelveticaNeueLTStd-Bd_gdi.eot');
-    src: url('../fonts/HelveticaNeueLTStd-Bd_gdi.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/HelveticaNeueLTStd-Bd_gdi.woff') format('woff'),
-        url('../fonts/HelveticaNeueLTStd-Bd_gdi.ttf') format('truetype');
+    src:  url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Bd_gdi.eot');
+    src: url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Bd_gdi.eot?#iefix') format('embedded-opentype'),
+        url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Bd_gdi.woff') format('woff'),
+        url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Bd_gdi.ttf') format('truetype');
     font-variant: normal;
     font-weight: normal;
     font-style: normal;
@@ -162,10 +162,10 @@
 
 @font-face {
     font-family: 'HelveticaNeueLTStd-Roman';
-    src:  url('../fonts/HelveticaNeueLTStd-Roman_gdi.eot');
-    src:  url('../fonts/HelveticaNeueLTStd-Roman_gdi.ttf') format('truetype'),
-        url('../fonts/HelveticaNeueLTStd-Roman_gdi.woff') format('woff'),
-        url('../fonts/HelveticaNeueLTStd-Roman_gdi.eot?#iefix') format('embedded-opentype');
+    src:  url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Roman_gdi.eot');
+    src:  url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Roman_gdi.ttf') format('truetype'),
+        url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Roman_gdi.woff') format('woff'),
+        url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Roman_gdi.eot?#iefix') format('embedded-opentype');
     
     font-variant: normal;
     font-weight: normal;
@@ -174,10 +174,10 @@
 
 @font-face {
     font-family: 'HelveticaNeueLTStd-Lt';
-    src:  url('../fonts/HelveticaNeueLTStd-Lt_gdi.eot');
-    src: url('../fonts/HelveticaNeueLTStd-Lt_gdi.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/HelveticaNeueLTStd-Lt_gdi.woff') format('woff'),
-        url('../fonts/HelveticaNeueLTStd-Lt_gdi.ttf') format('truetype');
+    src:  url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Lt_gdi.eot');
+    src: url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Lt_gdi.eot?#iefix') format('embedded-opentype'),
+        url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Lt_gdi.woff') format('woff'),
+        url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Lt_gdi.ttf') format('truetype');
     font-variant: normal;
     font-weight: 100;
     font-style: normal;
@@ -198,10 +198,10 @@
 
 @font-face {
     font-family: 'HelveticaNeueLTStd';
-    src:  url('../fonts/HelveticaNeueLTStd-Md_gdi.eot');
-    src:  url('../fonts/HelveticaNeueLTStd-Md_gdi.ttf') format('truetype'),
-        url('../fonts/HelveticaNeueLTStd-Md_gdi.woff') format('woff'),
-        url('../fonts/HelveticaNeueLTStd-Md_gdi.eot?#iefix') format('embedded-opentype');
+    src:  url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Md_gdi.eot');
+    src:  url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Md_gdi.ttf') format('truetype'),
+        url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Md_gdi.woff') format('woff'),
+        url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Md_gdi.eot?#iefix') format('embedded-opentype');
     
     font-variant: normal;
     font-weight: normal;
@@ -210,10 +210,10 @@
 
 @font-face {
     font-family: 'HelveticaNeueLTStd-UltLt';
-    src:  url('../fonts/HelveticaNeueLTStd-UltLt_gdi.eot');
-    src:  url('../fonts/HelveticaNeueLTStd-UltLt_gdi.ttf') format('truetype'),
-        url('../fonts/HelveticaNeueLTStd-UltLt_gdi.woff') format('woff'),
-        url('../fonts/HelveticaNeueLTStd-UltLt_gdi.eot?#iefix') format('embedded-opentype');
+    src:  url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-UltLt_gdi.eot');
+    src:  url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-UltLt_gdi.ttf') format('truetype'),
+        url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-UltLt_gdi.woff') format('woff'),
+        url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-UltLt_gdi.eot?#iefix') format('embedded-opentype');
     
     font-variant: normal;
     font-weight: normal;
