@@ -185,11 +185,11 @@
 
 @font-face {
     font-family: 'HelveticaNeueLTStd-Th';
-    src:  url('../fonts/HelveticaNeueLTStd-Th_gdi.eot');
-    src:  url('../fonts/HelveticaNeueLTStd-Th_gdi.ttf') format('truetype'),
-        url('../fonts//HelveticaNeueLTStd-Th.otf') format('opentype'),
-        url('../fonts/HelveticaNeueLTStd-Th_gdi.woff') format('woff'),
-        url('../fonts/HelveticaNeueLTStd-Th_gdi.eot?#iefix') format('embedded-opentype');
+    src:  url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Th_gdi.eot');
+    src:  url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Th_gdi.ttf') format('truetype'),
+        url('http://www.savehome.neovu.io/fonts//HelveticaNeueLTStd-Th.otf') format('opentype'),
+        url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Th_gdi.woff') format('woff'),
+        url('http://www.savehome.neovu.io/fonts/HelveticaNeueLTStd-Th_gdi.eot?#iefix') format('embedded-opentype');
     
     font-variant: normal;
     font-weight: normal;
