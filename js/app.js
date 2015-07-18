@@ -9,7 +9,7 @@ function loadBundles(lang) {
                 var items = data.split('\n');
                 $(items).each(function (index, element) {
                     var ele = element.split('=');
-                    if (ele.length > 0)
+                    if (ele.length > 1)
                         $("." + ele[0]).text(ele[1]);
 
                 });
