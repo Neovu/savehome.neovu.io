@@ -14,8 +14,10 @@
         "font-awesome": "latest",
         "chartjs": "latest",
         "jquery.browser": "latest",
-        "material-design-lite": "latest" 
-        
-        
+        "hammerjs": "latest",
+        "modernizr": "latest", 
+        "material-design-lite": "latest"
+
+
     }
 } 
