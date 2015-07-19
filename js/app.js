@@ -19,11 +19,12 @@ function loadBundles(lang) {
 }
 
 
+
 $(document).ready(function () {
 
     loadBundles($.i18n.browserLang());
     //loadBundles("pt_PT");
-
+    
     $(".featurette ol li:nth-child(1)").click(function () {
         $('.featurette-image.1').addClass('visible').removeClass('hidden');
         $('.featurette-image.2, .featurette-image.3').addClass('hidden');
