@@ -885,6 +885,17 @@ video { display: block; }
   border-bottom: 2px solid #fff;
 }
 
+.value6 {
+  background-image: url("../img/bg-benefits7.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 500px;
+  font-weight: 100;
+  border-right: 1px solid #fff;
+  border-bottom: 2px solid #fff;
+}
+
 .panel {
     box-shadow: 0 0 8px transparent;
     -webkit-transition: all .2s ease .2s;
