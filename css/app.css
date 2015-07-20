@@ -834,6 +834,17 @@ video { display: block; }
     border-bottom: 2px solid #fff;
 }
 
+
+.value4{
+    background-image: url("../img/bg-benefits5.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    font-weight: 100;
+    border-right: 1px solid #fff;
+    border-bottom: 2px solid #fff;
+}
 .value2 h2{
     font-weight: 100;
 }
@@ -947,8 +958,8 @@ video { display: block; }
     top: 0;
 }
 
-#banner{
-    height: 768px;
+#banner h1{
+    margin-top:17%;
 }
 .recommended img{
     width: 135px;
