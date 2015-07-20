@@ -867,7 +867,7 @@ video { display: block; }
 .value3{
     background-image: url("../img/bg-saveplug-wall.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: right center;
     background-repeat: no-repeat;
     height: 500px;
     font-weight: 100;
