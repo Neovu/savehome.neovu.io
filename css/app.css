@@ -426,7 +426,7 @@ video { display: block; }
 }
 
 .navbar-inverse .navbar-collapse {
-    border-color: #00AADB;
+    border-color: #5a5a5a;
 
 }
 .navbar-inverse .navbar-nav > li > a {
@@ -1051,6 +1051,12 @@ footer ul li:hover a{
 @media (max-width: 767px){
     .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
         color: #0E86A9;
+        
+    }
+    .navbar-collapse {
+        float: left!important;
+        width: 100%!important;
+        
     }
 }
 
@@ -1064,6 +1070,7 @@ footer ul li:hover a{
         float: left;
     }
 }
+
  
 
 
