@@ -1,28 +1,28 @@
 function loadBundles(lang) {
-        console.log(lang)
-     
-        $.i18n.properties({
-            name: 'Messages',
-            path: 'bundle/',
-            mode: 'both',
-            language: lang,
-            callback: function () {
-                $.get("bundle/Messages.properties", function (data) {
-                    var items = data.split('\n');
-                    $(items).each(function (index, element) {
-                        var ele = element.split('=');
-                        if (ele.length > 1)
-                            $("." + ele[0]).text(ele[1]);
 
-                    });
+    $.i18n.properties({
+        name: 'Messages',
+        path: 'bundle/',
+        mode: 'both',
+        language: lang,
+        callback: function () {
+
+            $.get("bundle/Messages_" + lang + ".properties", function (data) {
+                var items = data.split('\n');
+                $(items).each(function (index, element) {
+                    var ele = element.split('=');
+                    if (ele.length > 1) {
+                        $("." + ele[0]).text(ele[1]);
+                    }
+                    
                 });
-            }
-        });
-    }
+            });
+        }
+    });
+}
 
-$(function () {
-    
-    
+$(document).ready(function () {
+
     function scaleVideoContainer() {
 
         var height = $(window).height();
@@ -73,7 +73,7 @@ $(function () {
         });
     }
 
-   
+
     $(".featurette ol li:nth-child(1)").click(function () {
         $('.featurette-image.1').addClass('visible').removeClass('hidden');
         $('.featurette-image.2, .featurette-image.3').addClass('hidden');
@@ -136,8 +136,8 @@ $(function () {
         return false;
     });
 
-    var altura_tela = $(window).height(); 
-    $("#video-save").height(altura_tela);  
+    var altura_tela = $(window).height();
+    $("#video-save").height(altura_tela);
     $(window).resize(function () {
         var altura_tela = $(window).height();
         $("#video-save").height(altura_tela);
@@ -215,7 +215,7 @@ $(function () {
 
     $('#sidebar').change(function () {
         var selection = $('#sidebar option:selected').val();
-        loadBundles(selection !== 'browser' ? selection : $.i18n.browserLang());
+        loadBundles(selection);
 
     });
 
@@ -244,9 +244,9 @@ $(function () {
         scaleBannerVideoSize('.video-container .filter');
         scaleBannerVideoSize('.video-container video');
     });
-    
-     
-    loadBundles($.i18n.browserLang());
+
+
+    loadBundles("pt_PT");
     
 });
 
