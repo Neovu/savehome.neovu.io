@@ -16,6 +16,7 @@
         "jquery.browser": "latest",
         "hammerjs": "latest",
         "modernizr": "latest", 
+        "socialite": "latest", 
         "material-design-lite": "latest"
 
 
