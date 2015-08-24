@@ -52,7 +52,7 @@
 
             .social-buttons { display: block; list-style: none; padding: 0; margin: 20px; }
             .social-buttons > li { display: block; margin: 0; padding: 10px; float: left; }
-            .social-buttons .socialite { display: block; position: relative; background: url('images/social-sprite.png') 0 0 no-repeat; }
+            .social-buttons .socialite { display: block; position: relative; background: url('img/social-sprite.png') 0 0 no-repeat; }
             .social-buttons .socialite-loaded { background: none !important; }
 
             .social-buttons .twitter-share { width: 55px; height: 65px; background-position: 0 0; }
@@ -130,26 +130,6 @@
             });
 
         </script>
-        <script>
-            window.fbAsyncInit = function () {
-                FB.init({
-                    appId: '798499093596641',
-                    xfbml: true,
-                    version: 'v2.4'
-                });
-
-            };
-
-            (function (d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) {
-                    return;
-                }
-                js = d.createElement(s);
-                js.id = id;
-                js.src = "//connect.facebook.net/en_US/sdk.js";
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));
-        </script>
+        
     </body>
 </html>
